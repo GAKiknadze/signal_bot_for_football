@@ -19,9 +19,9 @@ RESTART_MSG = 'Перезагрузка!'
 PATTERN_MSG = 'Лига:\t{}\n{} / {}\nСчёт: {}/{}\nВремя: {}\nУгловые: {} / {}'
 
 # Parsing URL
-START_URL = 'http://www.nowgoal3.com/gf/data/bf_us.js?{}'
+START_URL = 'http://www.nowgoal4.com/gf/data/bf_us.js?{}'
 # Match URL
-MATCH_URL = 'http://www.nowgoal3.com/match/live-{}'
+MATCH_URL = 'http://www.nowgoal4.com/match/live-{}'
 MIN_TIME = 80
 MAX_TIME = 90
 
